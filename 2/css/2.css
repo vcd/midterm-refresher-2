@@ -1,0 +1,7 @@
+/*
+ Tile 'bg.png' file to 'body' background
+*/
+
+body {
+	background: url("http://subtlepatterns.com/patterns/dark_embroidery.png");
+}

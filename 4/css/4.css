@@ -1,0 +1,49 @@
+/*
+	* Watch video: https://www.dropbox.com/s/iko26rz5j2g9ljk/midterm-links.m4v?dl=0
+	* Style to match
+	* Add to existing styling
+*/
+
+li {
+	float: left;
+	margin: 0 10px 0 10px;
+	list-style: none;
+}
+
+/* Base link styling */
+nav a:link,
+nav a:visited {
+	color: #333;
+	padding: 10px 10px 10px 40px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+nav a:focus {
+	background: #E44D26;
+}
+
+nav a:hover,
+nav a:active {
+	color: #E44D26;
+}
+
+/* Home Link */
+#home a:hover {
+	background: url("../img/home.png") no-repeat;
+}
+
+/* Super Link */
+#super a:hover {
+	background: url("../img/super.png") no-repeat;
+}
+
+/* HTML5 Link */
+#html5 a:hover {
+	background: url("../img/html5.png") no-repeat;
+}
+
+
+
+
+

@@ -1,0 +1,9 @@
+/*
+ Add Playfair Font from: 
+ http://www.google.com/fonts#UsePlace:use/Collection:Playfair+Display
+*/
+
+blockquote {
+	font-family: 'Playfair Display', serif;
+	font-size: 4em;
+}
